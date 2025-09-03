@@ -7,7 +7,6 @@ I’m interested in **Data Engineering, Machine Learning, AI Engineering**. I en
 I'm currently expanding my knowledge in:  
 - **Data Engineering** (ETL pipelines, Apache Spark, and Cloud platforms)  
 - **Machine Learning & Deep Learning**   
-- **Full-stack Development with React.js and Node.js**  
 
 ## 💞️ Looking to Collaborate On  
 I’m open to collaborating on:
